@@ -1,2 +1,2 @@
 # jupterwallet
-www.juptewallet.online
+www.jupterwallet.online
